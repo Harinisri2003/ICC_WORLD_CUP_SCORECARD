@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: bisque;
+}
+.container{
+    width: 100vw;
+    height: 150vh;
+    background-color: blue;
+}
+#image{
+    width: 100vw;
+    height: 150vh;
+}
+#heading1{
+    position: absolute;
+    text-align: center;
+    color: rgb(78, 22, 89);
+    bottom: 600px;
+    margin-left: 600px;
+}
+#line{
+   position: absolute;
+   bottom: 77%;
+   position: absolute;
+   color: rgb(128, 210, 84);
+font-size: 10rem;
+font-weight: 100;
+   margin-left: 560px;
+
+}
+#heading2{
+    position: absolute;
+    text-align: center;
+    color: rgb(78, 22, 89);
+    bottom: 460px;
+    margin-left: 600px;
+}
+table{
+    border: 1px solid;
+    width: 50%;
+    height: 30%;
+    position: absolute;
+    top: 40%;
+    margin-left: 370px;
+    
+}
+tr:hover {background-color: coral;}
+
+#heading{
+    background-color: plum;
+}
